@@ -1,4 +1,5 @@
 --- 
+layout: default
 ---
 {% img src="background" %}
 # Adrian Rumson
