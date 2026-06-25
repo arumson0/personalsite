@@ -5,4 +5,4 @@
 ## Description
 {{ site.description }}
 
-{ include footer.html}
+{% include footer.html %}
