@@ -7,4 +7,3 @@ layout: default
 ## Description
 {{ site.description }}
 
-{% include footer.html %}
